@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program\Android\.gradle\caches\transforms-3\18d66a76370cc61ebc391a8c4d2f7ea4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] D:\Program\Android\.gradle\caches\transforms-3\5cdfc37105c4df2dc6a4e9fce27e055a\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\ce9cfdf7c16d1922133dfa2d262e512d\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d441e96d62255c75c1f5602a2c085a18\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.huawei.agconnect:agconnect-cloud-database:1.4.7.300] D:\Program\Android\.gradle\caches\transforms-3\fef719ab169fe5e780c7df419377f063\transformed\jetified-agconnect-cloud-database-1.4.7.300\AndroidManifest.xml:2:1-13:12
+MERGED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\75cc9747bf910db6033a9f7c30d609d2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\376052257e03e95e2f05d029ef17f10d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\11a09dabc190c5fd6b8fe2564f87ae30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\096b91f27741e656374a509ee71c73f0\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\9030ef88f9a92c963052fcafa8752fef\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\ca28e314bfd826851e7a52d60f8ad569\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d237834d1161966873885be0057d21a0\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\9773bab7d0857113842dcf869754f8d3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\78af519a30dbe5a36e96386904991b3a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\9b7c3b1a17732dff50bf20c9242db54b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\ba6ee8d8eac8d5738b3b8a5772203b6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\e091e006760ca9032c15d60c58663a88\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\02f7467b3af7519da17e6502737dfb22\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\f4125421cb0c5d5e8f25c53b58c3f2bc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\918bcd7bfb773101bd056b8831c1978c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\3eeb267492db5e33e0bd40c0798c3123\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\e546c0d6f2a285ce80611daa0df74626\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\37839e998b5661d8df23c154afee6abe\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\56facebdded19d15c7623c43f8038ad1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\74daf9077db6bb6e5e46940cb5bb8327\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] D:\Program\Android\.gradle\caches\transforms-3\2ccb676ac736eae30b1ba00ca18ed6d1\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\c274345d04f8ee7ed39cedd46e7dcea6\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\9bab3c64511d658a3af6c02a73a52f37\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\202323501b2d9229f7f33428fcdb33b0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\b5d5c33262453e5a7aba4995c0aa768a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d0d93e1722f13a4c5b7ff7a2740a0980\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\052b657317b3e4b00a9dbb1099f8c684\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Program\Android\.gradle\caches\transforms-3\1a45b693e7fd03924d214aaee0199ca5\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Program\Android\.gradle\caches\transforms-3\80a29cfd20eb329d088780293fa27a42\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\9d2dae147c4cf9422c5df432ffc26ced\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\ddaea3ff8a4a6bfa7d64ab137f06e44e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\d0b70193020ee71df02f6062625c188f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\efd6e20e0e0a478d4047feb517ff2172\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\c5b39f50c30b43ce550a45c1a56edc5d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:2:1-28:12
+MERGED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:2:1-21:12
+MERGED from [com.huawei.agconnect:agconnect-https:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\c87cf8d786c7c9708aafb10cba07b978\transformed\jetified-agconnect-https-1.5.0.300\AndroidManifest.xml:3:1-13:12
+MERGED from [com.huawei.hmf:tasks:1.4.1.300] D:\Program\Android\.gradle\caches\transforms-3\096f4e33893b05453834bbfc1eeacf07\transformed\jetified-tasks-1.4.1.300\AndroidManifest.xml:2:1-10:12
+MERGED from [com.huawei.agconnect:datastore-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ea6cf20524b679f8c3aa4d5a14277f76\transformed\jetified-datastore-core-1.5.0.300\AndroidManifest.xml:2:1-10:12
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.huawei.agconnect:agconnect-cloud-database:1.4.7.300] D:\Program\Android\.gradle\caches\transforms-3\fef719ab169fe5e780c7df419377f063\transformed\jetified-agconnect-cloud-database-1.4.7.300\AndroidManifest.xml:11:5-67
+MERGED from [com.huawei.agconnect:agconnect-cloud-database:1.4.7.300] D:\Program\Android\.gradle\caches\transforms-3\fef719ab169fe5e780c7df419377f063\transformed\jetified-agconnect-cloud-database-1.4.7.300\AndroidManifest.xml:11:5-67
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.huawei.agconnect:agconnect-https:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\c87cf8d786c7c9708aafb10cba07b978\transformed\jetified-agconnect-https-1.5.0.300\AndroidManifest.xml:11:5-79
+MERGED from [com.huawei.agconnect:agconnect-https:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\c87cf8d786c7c9708aafb10cba07b978\transformed\jetified-agconnect-https-1.5.0.300\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:9:22-80
+application
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:10:5-39:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program\Android\.gradle\caches\transforms-3\18d66a76370cc61ebc391a8c4d2f7ea4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program\Android\.gradle\caches\transforms-3\18d66a76370cc61ebc391a8c4d2f7ea4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] D:\Program\Android\.gradle\caches\transforms-3\5cdfc37105c4df2dc6a4e9fce27e055a\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] D:\Program\Android\.gradle\caches\transforms-3\5cdfc37105c4df2dc6a4e9fce27e055a\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:10:5-18:19
+MERGED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:10:5-18:19
+MERGED from [androidx.core:core:1.3.1] D:\Program\Android\.gradle\caches\transforms-3\2ccb676ac736eae30b1ba00ca18ed6d1\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] D:\Program\Android\.gradle\caches\transforms-3\2ccb676ac736eae30b1ba00ca18ed6d1\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\9bab3c64511d658a3af6c02a73a52f37\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\9bab3c64511d658a3af6c02a73a52f37\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:14:5-26:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:14:5-26:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:10:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:10:5-19:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] D:\Program\Android\.gradle\caches\transforms-3\2ccb676ac736eae30b1ba00ca18ed6d1\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:16:13-39
+	android:label
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:14:13-45
+	android:roundIcon
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:15:13-54
+	android:icon
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:13:13-49
+	android:allowBackup
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:12:13-40
+	android:theme
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:11:13-70
+activity#com.reapex.sv.MainActivity
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:21:17-59
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:20:17-58
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:22:13-27:29
+action#android.intent.action.MAIN
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:23:25-66
+action#android.intent.action.VIEW
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.reapex.sv.EditActivity
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:33:17-49
+	android:exported
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:32:17-41
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:31:17-58
+intent-filter#action:name:com.huawei.agc.clouddb.quickstart.ADD+action:name:com.huawei.agc.clouddb.quickstart.SEARCH
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:34:13-37:29
+action#com.huawei.agc.clouddb.quickstart.ADD
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:35:17-80
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:35:25-77
+action#com.huawei.agc.clouddb.quickstart.SEARCH
+ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:36:17-83
+	android:name
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml:36:25-80
+uses-sdk
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program\Android\.gradle\caches\transforms-3\18d66a76370cc61ebc391a8c4d2f7ea4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program\Android\.gradle\caches\transforms-3\18d66a76370cc61ebc391a8c4d2f7ea4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] D:\Program\Android\.gradle\caches\transforms-3\5cdfc37105c4df2dc6a4e9fce27e055a\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] D:\Program\Android\.gradle\caches\transforms-3\5cdfc37105c4df2dc6a4e9fce27e055a\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\ce9cfdf7c16d1922133dfa2d262e512d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\ce9cfdf7c16d1922133dfa2d262e512d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d441e96d62255c75c1f5602a2c085a18\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d441e96d62255c75c1f5602a2c085a18\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.huawei.agconnect:agconnect-cloud-database:1.4.7.300] D:\Program\Android\.gradle\caches\transforms-3\fef719ab169fe5e780c7df419377f063\transformed\jetified-agconnect-cloud-database-1.4.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-cloud-database:1.4.7.300] D:\Program\Android\.gradle\caches\transforms-3\fef719ab169fe5e780c7df419377f063\transformed\jetified-agconnect-cloud-database-1.4.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\75cc9747bf910db6033a9f7c30d609d2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\75cc9747bf910db6033a9f7c30d609d2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\376052257e03e95e2f05d029ef17f10d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\376052257e03e95e2f05d029ef17f10d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\11a09dabc190c5fd6b8fe2564f87ae30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\11a09dabc190c5fd6b8fe2564f87ae30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\096b91f27741e656374a509ee71c73f0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\096b91f27741e656374a509ee71c73f0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\9030ef88f9a92c963052fcafa8752fef\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\9030ef88f9a92c963052fcafa8752fef\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\ca28e314bfd826851e7a52d60f8ad569\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\ca28e314bfd826851e7a52d60f8ad569\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d237834d1161966873885be0057d21a0\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d237834d1161966873885be0057d21a0\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\9773bab7d0857113842dcf869754f8d3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\9773bab7d0857113842dcf869754f8d3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\78af519a30dbe5a36e96386904991b3a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\78af519a30dbe5a36e96386904991b3a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\9b7c3b1a17732dff50bf20c9242db54b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Program\Android\.gradle\caches\transforms-3\9b7c3b1a17732dff50bf20c9242db54b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\ba6ee8d8eac8d5738b3b8a5772203b6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\ba6ee8d8eac8d5738b3b8a5772203b6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\e091e006760ca9032c15d60c58663a88\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\e091e006760ca9032c15d60c58663a88\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\02f7467b3af7519da17e6502737dfb22\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\02f7467b3af7519da17e6502737dfb22\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\f4125421cb0c5d5e8f25c53b58c3f2bc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\f4125421cb0c5d5e8f25c53b58c3f2bc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\918bcd7bfb773101bd056b8831c1978c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\918bcd7bfb773101bd056b8831c1978c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\3eeb267492db5e33e0bd40c0798c3123\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\3eeb267492db5e33e0bd40c0798c3123\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\e546c0d6f2a285ce80611daa0df74626\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\e546c0d6f2a285ce80611daa0df74626\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\37839e998b5661d8df23c154afee6abe\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\37839e998b5661d8df23c154afee6abe\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\56facebdded19d15c7623c43f8038ad1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\56facebdded19d15c7623c43f8038ad1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\74daf9077db6bb6e5e46940cb5bb8327\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\74daf9077db6bb6e5e46940cb5bb8327\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] D:\Program\Android\.gradle\caches\transforms-3\2ccb676ac736eae30b1ba00ca18ed6d1\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] D:\Program\Android\.gradle\caches\transforms-3\2ccb676ac736eae30b1ba00ca18ed6d1\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\c274345d04f8ee7ed39cedd46e7dcea6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\c274345d04f8ee7ed39cedd46e7dcea6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\9bab3c64511d658a3af6c02a73a52f37\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program\Android\.gradle\caches\transforms-3\9bab3c64511d658a3af6c02a73a52f37\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\202323501b2d9229f7f33428fcdb33b0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\202323501b2d9229f7f33428fcdb33b0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\b5d5c33262453e5a7aba4995c0aa768a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\b5d5c33262453e5a7aba4995c0aa768a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d0d93e1722f13a4c5b7ff7a2740a0980\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\d0d93e1722f13a4c5b7ff7a2740a0980\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\052b657317b3e4b00a9dbb1099f8c684\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\052b657317b3e4b00a9dbb1099f8c684\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Program\Android\.gradle\caches\transforms-3\1a45b693e7fd03924d214aaee0199ca5\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Program\Android\.gradle\caches\transforms-3\1a45b693e7fd03924d214aaee0199ca5\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Program\Android\.gradle\caches\transforms-3\80a29cfd20eb329d088780293fa27a42\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Program\Android\.gradle\caches\transforms-3\80a29cfd20eb329d088780293fa27a42\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\9d2dae147c4cf9422c5df432ffc26ced\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\9d2dae147c4cf9422c5df432ffc26ced\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\ddaea3ff8a4a6bfa7d64ab137f06e44e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\ddaea3ff8a4a6bfa7d64ab137f06e44e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\d0b70193020ee71df02f6062625c188f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\d0b70193020ee71df02f6062625c188f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\efd6e20e0e0a478d4047feb517ff2172\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Program\Android\.gradle\caches\transforms-3\efd6e20e0e0a478d4047feb517ff2172\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\c5b39f50c30b43ce550a45c1a56edc5d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Program\Android\.gradle\caches\transforms-3\c5b39f50c30b43ce550a45c1a56edc5d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:7:5-10:70
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:7:5-10:70
+MERGED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:agconnect-https:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\c87cf8d786c7c9708aafb10cba07b978\transformed\jetified-agconnect-https-1.5.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-https:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\c87cf8d786c7c9708aafb10cba07b978\transformed\jetified-agconnect-https-1.5.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hmf:tasks:1.4.1.300] D:\Program\Android\.gradle\caches\transforms-3\096f4e33893b05453834bbfc1eeacf07\transformed\jetified-tasks-1.4.1.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.hmf:tasks:1.4.1.300] D:\Program\Android\.gradle\caches\transforms-3\096f4e33893b05453834bbfc1eeacf07\transformed\jetified-tasks-1.4.1.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:datastore-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ea6cf20524b679f8c3aa4d5a14277f76\transformed\jetified-datastore-core-1.5.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:datastore-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ea6cf20524b679f8c3aa4d5a14277f76\transformed\jetified-datastore-core-1.5.0.300\AndroidManifest.xml:6:5-8:41
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:10:9-67
+	android:targetSdkVersion
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+		ADDED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+		INJECTED from A:\ASCode\Huawei\demo_cloud_db2\app\src\main\AndroidManifest.xml
+service#com.huawei.agconnect.core.ServiceDiscovery
+ADDED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:11:9-17:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:15:9-21:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:15:9-21:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:16:9-18:40
+MERGED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:12:13-70
+meta-data#com.huawei.agconnect.auth.AuthServiceRegistrar
+ADDED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:14:13-16:78
+	android:value
+		ADDED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:16:17-75
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-auth:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\38140773da88398ba5913f270c94125f\transformed\jetified-agconnect-auth-1.5.0.300\AndroidManifest.xml:15:17-78
+meta-data#com.huawei.agconnect.credential.CredentialServiceRegistrar:100
+ADDED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:18:13-20:78
+	android:value
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:20:17-75
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:19:17-94
+uses-library#org.apache.http.legacy
+ADDED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\86e65decd5f49ced180ec301f1085fa6\transformed\jetified-agconnect-credential-1.5.0.300\AndroidManifest.xml:24:13-50
+provider#com.huawei.agconnect.core.provider.AGConnectInitializeProvider
+ADDED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:11:9-14:40
+	android:authorities
+		ADDED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:13:13-73
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-core:1.5.0.300] D:\Program\Android\.gradle\caches\transforms-3\ce6a88ec5a48a98d039a6eed43427309\transformed\jetified-agconnect-core-1.5.0.300\AndroidManifest.xml:12:13-90
